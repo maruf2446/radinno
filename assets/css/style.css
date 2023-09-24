@@ -1435,7 +1435,7 @@ p {
   background-position: right center;
 }
 
-.developer-name{
+.developer-name span{
   font-style: unset;
   font-size: large;
 }
