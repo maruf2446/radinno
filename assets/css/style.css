@@ -1440,6 +1440,22 @@ p {
   font-size: large;
 }
 
+.contact-icons{
+  font-size: 20px;
+  width: full;
+  color: white;
+}
+.contact-text{
+  font-size: 10px;
+  padding-left: 7px;
+  margin-right: 20px;
+  text-transform: lowercase;
+  color: white;
+  position:absolute;
+  /* align-items: center; */
+}
+
+
 /* ======================
     DEFAULT CSS
 ========================= */
